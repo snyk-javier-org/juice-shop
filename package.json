@@ -97,6 +97,7 @@
     ]
   },
   "dependencies": {
+    "@azure/ms-rest-nodeauth": "3.0.7",
     "bitcore-node": "8.19.0",
     "body-parser": "^1.19.0",
     "browserify-shim": "3.8.15",
