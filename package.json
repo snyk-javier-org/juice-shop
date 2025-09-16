@@ -186,8 +186,6 @@
     "has-ansi": "6.0.1",
     "duckdb": "1.3.3",
     "prebid.js": "10.9.2",
-    "prebid-universal-creative",
-    "prebid": "latest",
     "proto-tinker-wc": "0.1.87",
     "z85": "^0.0.2"
   },
